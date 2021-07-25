@@ -1,0 +1,26 @@
+2021-06-06 19:57:13,219 INFO: Command given = pygrep.py -c Hello Sample1.txt
+2021-06-06 19:57:13,219 ERROR: [Errno 2] No such file or directory: 'Sample1.txt'
+2021-06-06 19:58:41,418 INFO: Command given = pygrep.py -c Hello Sample_1.txt Sample_2.txt
+2021-06-06 19:58:41,770 INFO: count = 0
+2021-06-06 19:58:41,789 INFO: count = 0
+2021-06-06 19:59:03,773 INFO: Command given = pygrep.py -c Hello Sample_1.txt Sample_2.txt Sample_8.txt
+2021-06-06 19:59:03,773 INFO: count = 0
+2021-06-06 19:59:03,775 INFO: count = 0
+2021-06-06 19:59:03,785 INFO: count = 2
+2021-06-06 22:35:45,818 INFO: Command given = pygrep.py -r Hello Sample_1.txt
+2021-06-06 22:36:09,710 INFO: Command given = pygrep.py -r [--include] Hello Sample_1.txt
+2021-06-06 22:37:36,104 INFO: Command given = pygrep.py -r [--include] Hello Sample_1.txt
+2021-06-06 22:37:43,950 INFO: Command given = pygrep.py -r Hello Sample_1.txt
+2021-06-06 22:41:44,851 INFO: Command given = pygrep.py -r [--include] Hello Sample_1.txt
+2021-06-06 22:42:31,418 INFO: Command given = pygrep.py -r [--include] Hello Sample_1.txt
+2021-06-06 22:42:46,914 INFO: Command given = pygrep.py -r [--include] Hello Sample_1.txt
+2021-06-06 22:43:36,875 INFO: Command given = pygrep.py -r [--include] Hello Sample_1.txt
+2021-06-06 22:46:44,171 ERROR: local variable 'args' referenced before assignment
+2021-06-06 22:48:37,696 INFO: Command given = pygrep.py -r --include Hello Sample_8.txt Sample_1.txt
+2021-06-06 22:48:37,699 INFO: No files found
+2021-06-06 22:50:06,206 ERROR: __init__() got an unexpected keyword argument 'nargs'
+2021-06-06 22:50:31,608 INFO: Command given = pygrep.py -r --include Hello Sample_8.txt
+2021-06-06 22:50:31,611 INFO: No files found
+2021-06-06 22:50:58,741 INFO: Command given = pygrep.py -r Hello Sample_1.txt
+2021-06-06 22:54:18,259 INFO: Command given = pygrep.py -r --include Hello Sample_1.txt
+2021-06-06 22:54:18,261 INFO: No files found
